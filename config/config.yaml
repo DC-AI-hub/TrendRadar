@@ -80,7 +80,7 @@ weight:
 platforms:
   - id: "cls-hot"
     name: "财联社热门"
-  - id: "cls-deep"
+  - id: "cls-depth"
     name: "财联社深度"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻-最热"
