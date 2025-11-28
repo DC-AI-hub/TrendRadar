@@ -1,129 +1,104 @@
+# 组1: AI模型、技术与应用
 DeepSeek
-梁文锋
-豆包 
-代码
-Java
-python
+豆包
+大模型
+大语言模型
+多模态
+AI
+人工智能
+AIGC
+ChatGPT
+openai
+GPT
+Sora
+Claude
+Anthropic
+Copilot
+codebuddy
+cursor
+Dify
+fastgpt
+coze
+RAG
+知识库
+Langchain
 低代码
 工作流
 自动化
-Dify
 n8n
-fastgpt
-coze
-飞书
-RAG
-知识库
-大模型
-大语言
-多模态
-Langchain
 
+# 组2: 编程与开发
+代码
+Java
+python
+Github
+前端
+后端
+
+# 组3: 中外科技企业
 华为
-鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
-
 大疆
 DJI
-
-宇树
-王兴兴
-
 智元
 灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-!车
-!餐
-
-刘强东
-
 字节
 bytedance
-张一鸣
-
 特斯拉
-马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
 meta
-黄仁勋
-Hinton
-Bengio
-李飞飞
-Bill Dally
-LeCun
-
 AMD
-
 谷歌
 苹果
 google
 gemini
 deepmind
 
-chatgpt
-openai
-gpt
-sora
-AI
+# 组4: 科技人物
+CEO
+黄仁勋
+Hinton
+Bengio
+李飞飞
+Bill Dally
+LeCun
+马斯克
+!八卦
 
-claude
-Anthropic
-claude code
-copilot
-codebuddy
-cursor
-
-华为
-GPU 
+# 组5: 算力硬件与芯片
+GPU
 昇腾
 鲲鹏
 H100
-4090 
 H200
-ai
-!gai
-人工智能
-AIGC
+4090
+芯片
+算力
 FDE
 
-自动驾驶
-
+# 组6: 前沿技术领域
+人工智能
 机器人
+AI翻唱
+AI音乐
+TTS
 
+# 组7: 地域与宏观标签
 国产
 中国
-算力
-
 美国
 特朗普
 硅谷
 日本
 香港
+!体育
+!社会
 
-芯片
-
+# 组8: 投资市场
 科技
 股票
 美股
-AI翻唱
-AI音乐
-TTS
-Github
-前端
-后端
+投资
