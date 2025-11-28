@@ -1,5 +1,17 @@
 DeepSeek
 梁文锋
+豆包 
+代码
+Java
+python
+低代码
+工作流
+自动化
+Dify
+n8n
+fastgpt
+coze
+飞书
 
 华为
 鸿蒙
