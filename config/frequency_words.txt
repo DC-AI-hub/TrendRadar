@@ -12,6 +12,12 @@ n8n
 fastgpt
 coze
 飞书
+RAG
+知识库
+大模型
+大语言
+多模态
+Langchain
 
 华为
 鸿蒙
@@ -65,6 +71,7 @@ LeCun
 AMD
 
 谷歌
+苹果
 google
 gemini
 deepmind
@@ -101,6 +108,7 @@ FDE
 
 国产
 中国
+算力
 
 美国
 特朗普
@@ -117,3 +125,5 @@ AI翻唱
 AI音乐
 TTS
 Github
+前端
+后端
